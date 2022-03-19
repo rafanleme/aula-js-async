@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+p {
+    background-color: #ccc;
+    padding: 5px 10px;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 0;
+}
